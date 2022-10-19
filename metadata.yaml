@@ -1,0 +1,28 @@
+_repo: A-gallop-among-American-scenery-or-Sketches-of-American-scenes-and-military-adventure_69111
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Silliman, Augustus E.
+    gutenberg_agent_id: '55111'
+    url: http://www.gutenberg.org/2009/agents/55111
+description: ''
+gutenberg_issued: '2022-10-07'
+identifiers:
+  gutenberg: '69111'
+language: en
+pgterms:marc904: https://archive.org/details/gallopamongameri00sill/page/n7/mode/2up
+pgterms:marc905: 20210304222554silliman
+pgterms:marc906: '1843'
+pgterms:marc907: US
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United States :D. Appleton & Co.,1843.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A gallop among American scenery: or, Sketches of American scenes and military
+  adventure'
+url: http://www.gutenberg.org/ebooks/69111
